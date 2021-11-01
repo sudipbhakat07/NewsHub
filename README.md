@@ -7,6 +7,4 @@ Its an android app which will show the latest news in a Recycler View.
 - Implementated Unit Testing.
 - Also implementated Search Functionality.
 
-<img src="Screenshot1.png">
-      <img src="/screenshots/Screenshot_2018-05-20-15-02-39-938_com.example.anujsharma.shuffler.png" width="250" title="Saved Playlists">
-      <img src="/screenshots/Screenshot_2018-05-20-15-04-15-523_com.example.anujsharma.shuffler.png" width="250" title="Search Results">
+You can run this Android app on Appetize.io [here](https://appetize.io/app/w40mr593cxv7mdtrk9e8f7he4m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
